@@ -1,1 +1,22 @@
 This is the answer for the homework 2
+
+Part 1 Thinking part
+1.举一个你之前做过的预测例子（用的什么模型，解决什么问题，比如我用LR模型，对员工离职进行了预测，效果如何... 请分享到课程微信群中）
+
+2.XGBoost, LightGBM, CatBoost是三种基于GBDT的实现，三者之间区别是怎样的
+
+3.你认为，NGBoost对之后的算法会有怎样的影响
+
+Part 2 Action part
+1."使用ModelArts（AutoML）完成员工离职预测问题
+熟悉数据标注、模型训练、部署上线三个环节"
+
+2."使用NoteBook完成员工离职预测问题
+使用任何方法都可以，自由组队或个人完成
+实时排名：1月17日-2月17日
+
+Part 3 Track 1
+"用户购买预测（1.17-3.12）
+实时排名：1月20日-3月12日
+预测下个月用户是否会进行购买，可以使用任何模型"
+
